@@ -37,4 +37,15 @@ And what happens if we throw in some **ice cream** too?
 
 1. Clone the repository  
 ```bash
-git clone https://github.com/your-username/absurd-correlations.git
+git clone https://github.com/stacktrap/absurd-correlations.git
+```
+
+2. install the required libraries
+```bash
+pip install pandas matplotlib seaborn scikit-learn
+```
+
+3. Run the main analysis script
+```bash
+python analysis_absurd_correlations.py
+```
